@@ -1,4 +1,4 @@
-import Root from "./components/layout/Root";
+import Root from "./components/Layout/Root";
 import Home from "./pages/Home";
 import Explore from "./pages/Explore";
 import { Navigate } from "react-router-dom";
